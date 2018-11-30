@@ -1,0 +1,7 @@
+---
+production:
+  api_url: https://waterious-api.herokuapp.com/api/v1
+development:
+  api_url: https://waterious-api.herokuapp.com/api/v1
+test:
+  api_url: https://waterious-api.herokuapp.com/api/v1
